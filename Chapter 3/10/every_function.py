@@ -1,0 +1,18 @@
+languages = ["Japanese", "Mandarin", "Hindi", "Spanish", "Italian", "French"]
+print(languages)
+languages.append("English")
+print(languages)
+languages.insert(2, "Dutch")
+print(languages)
+del languages[3]
+print(languages)
+languages.pop(1)
+print(languages)
+languages.remove("Japanese")
+print(languages)
+sorted(languages, reverse=True)
+print(languages)
+languages.sort(reverse=True)
+print(languages)
+languages.reverse()
+print(len(languages))
