@@ -1,0 +1,5 @@
+In Python you can program very efficiently.
+In Python you can manipulate variables that store values.
+In Python you can use lists which hold groups of data.
+In Python you can conditionally go down different paths.
+In Python you can loop over a sequence like a string or list.
